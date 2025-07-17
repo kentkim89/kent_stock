@@ -1,0 +1,7 @@
+--python-version=3.11
+streamlit
+pandas
+plotly
+yfinance
+google-generativeai
+gnews
